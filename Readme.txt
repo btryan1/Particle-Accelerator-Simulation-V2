@@ -1,0 +1,1 @@
+The plots files have the code that plots all my figures. The cycltron Run is the run code for square RF signal whereas the Quasi uses the quasi. Linear runs the LINAC code, wheereas generate particle bunch, general emfield and particle are my classes.
